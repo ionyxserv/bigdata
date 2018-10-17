@@ -1,5 +1,6 @@
 # bigdata
-This repository for education purposed.\n
+This repository for education purposed.
+
 `asdsad` adsfsdf
 
 Colons can be used to align columns.
