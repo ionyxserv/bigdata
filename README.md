@@ -1,8 +1,13 @@
 # Online Retail Dataset - 
-This repository for education purposed.
+This repository dedicated for education purpose.
 
-All data 
+### Table of contents:
 
+
+Environment:
+```
+Hortonworks Data Platform (Version)
+```
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
