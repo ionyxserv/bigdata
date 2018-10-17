@@ -1,2 +1,2 @@
-# bigdata-online_reteail
+# bigdata
 This repository for education purposed.
